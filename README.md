@@ -1,6 +1,7 @@
 # SpawnNoob
 For HiddenDevs
 
+```
 local ServerScriptService = game:GetService("ServerScriptService")
 local Workspace = game:GetService("Workspace")
 
